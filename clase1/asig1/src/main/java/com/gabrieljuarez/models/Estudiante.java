@@ -1,4 +1,4 @@
-package com.gabrieljuarez;
+package com.gabrieljuarez.models;
 
 public class Estudiante {
     String nombre;
