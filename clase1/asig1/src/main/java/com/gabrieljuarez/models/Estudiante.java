@@ -6,9 +6,18 @@ public class Estudiante {
     double promedio;
 
     public Estudiante(String nombre, String matricula, double promedio) {
-        this.nombre = nombre;
+        this.setNombre(nombre);
         this.matricula = matricula;
         this.promedio = promedio;
+    }
+
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre.replace(" ", "").toUpperCase();
+    }
+
+    public String getNombre() {
+        return this.nombre;
     }
 
     public void imprimir_datos(){

@@ -22,8 +22,9 @@ public class Main {
       cuenta.mostrar_datos_cuenta();
       System.out.println();
 
-      Estudiante estudiante = new Estudiante("Andres", "esp-937", 87.9 );
+      Estudiante estudiante = new Estudiante(" An dr    es   ", "esp-937", 87.9 );
       estudiante.imprimir_datos();
+      System.out.println(estudiante.getNombre());
 
     }  
 
