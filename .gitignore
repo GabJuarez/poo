@@ -27,3 +27,6 @@ replay_pid*
 .idea/
 *.iml
 out/
+
+# Ignore extra .gitignore files in subfolders
+**/.gitignore
