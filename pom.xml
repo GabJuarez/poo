@@ -11,8 +11,8 @@
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>programacion orientada a objetos</name>
-    <description>repositorio multimodulo por cada clase de poo</description>
+    <name>Programación orientada a objetos</name>
+    <description>Repositorio multimódulo por cada clase de POO</description>
 
     <modules>
         <module>clase-1</module>
