@@ -22,6 +22,7 @@
         <module>clase-5</module>
         <module>clase-6</module>
         <module>clase-7</module>
+        <module>practica</module>
     </modules>
 
     <build>
