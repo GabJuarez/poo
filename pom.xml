@@ -23,6 +23,7 @@
         <module>clase-6</module>
         <module>clase-7</module>
         <module>practica</module>
+        <module>kotlin-1</module>
     </modules>
 
     <build>
