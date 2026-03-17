@@ -24,6 +24,8 @@
         <module>clase-7</module>
         <module>practica</module>
         <module>kotlin-1</module>
+        <module>kotlin-2</module>
+        <module>kotlin-3</module>
     </modules>
 
     <build>
